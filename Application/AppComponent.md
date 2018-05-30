@@ -5,6 +5,8 @@
                 AppModule.class,
                 RoomModule.class,
                 UtilizeModule.class,
+                
+                <!-- Type 1 -->
                 FragmentModule.class
         }
 )
