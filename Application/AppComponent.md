@@ -4,7 +4,8 @@
         modules = {
                 AppModule.class,
                 RoomModule.class,
-                UtilizeModule.class
+                UtilizeModule.class,
+                FragmentModule.class
         }
 )
 public interface AppComponent {
