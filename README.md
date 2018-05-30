@@ -35,6 +35,11 @@ public class SoftwareKeyBoardUtilize {
             }
         });
     }
+    
+    public static float dpToPx(Context context, float valueInDp) {
+        DisplayMetrics metrics = context.getResources().getDisplayMetrics();
+        return TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_DIP, valueInDp, metrics);
+    }
 }
 ```
 - [x] set/get Title in activity in Android
