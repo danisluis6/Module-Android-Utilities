@@ -2,11 +2,13 @@
 @Singleton
 @Component(
         modules = {
+                /** Type 1 */
                 AppModule.class,
                 RoomModule.class,
                 UtilizeModule.class,
                 
-                <!-- Type 1 -->
+                /** Type 2 */
+                AppModule.class,
                 FragmentModule.class
         }
 )
