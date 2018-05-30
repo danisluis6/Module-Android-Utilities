@@ -2,7 +2,7 @@
 @Singleton
 @Component(
         modules = {
-                AppModule.class,
+                <a href="#links">AppModule.class</a>,
                 RoomModule.class,
                 UtilizeModule.class
         }
