@@ -1,3 +1,5 @@
+## WAY 1
+
 ```java
 public class Application extends android.app.Application {
 
@@ -37,3 +39,5 @@ public class Application extends android.app.Application {
 
 }
 ```
+
+## WAY 2
