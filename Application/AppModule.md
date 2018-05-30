@@ -1,4 +1,4 @@
-## TYPE 1
+## WAY 1
 
 ```java
 @Module
@@ -46,7 +46,6 @@ public class AppModule {
 
 }
 ```
-
-## TYPE 2
+## WAY 2
 
 
