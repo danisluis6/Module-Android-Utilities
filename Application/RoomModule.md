@@ -1,3 +1,5 @@
+## WAY 1
+
 ```java
 @Module
 public class RoomModule {
@@ -44,3 +46,5 @@ public class RoomModule {
 
 }
 ```
+
+## WAY 2
