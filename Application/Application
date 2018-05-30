@@ -1,3 +1,4 @@
+```java
 public class Application extends android.app.Application {
 
     private AppComponent mApplicationComponent;
@@ -35,3 +36,4 @@ public class Application extends android.app.Application {
     }
 
 }
+```
